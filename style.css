@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: purple;
+    margin-left: 20px;
+}
+
+p {
+    color: green;
+    margin-left: 20px;
+}
+
+button {
+  font-family: Helvetica;
+  color: #000000;
+  font-size: 12px;
+  background: #d93434;
+}
